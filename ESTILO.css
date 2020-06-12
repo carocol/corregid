@@ -70,7 +70,6 @@ table td{
 }
 .respuestas{
     color: white;
-    font-family: cursive;
     text-align: left;
     display: flex;
 }
@@ -200,6 +199,9 @@ table td{
     .preguntas{
         text-align: left;
         font-size: 15px;
+    }
+    .respuestas{
+	font-size: 15px;
     }
     td{
         font-size: 15px;
