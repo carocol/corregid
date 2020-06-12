@@ -190,6 +190,9 @@ table td{
     h3{
         font-size: 25px;
     }
+    form{
+	font-size: 17px;
+    }
     .lin{
         font-size: 15px;
     }
@@ -198,10 +201,10 @@ table td{
     }
     .preguntas{
         text-align: left;
-        font-size: 15px;
+        font-size: 17px;
     }
     .respuestas{
-	font-size: 15px;
+	font-size: 17px;
     }
     td{
         font-size: 15px;
