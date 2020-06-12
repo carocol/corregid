@@ -190,8 +190,8 @@ table td{
     h3{
         font-size: 25px;
     }
-    form{
-	font-size: 17px;
+    .grande{
+	font-size: 15px;
     }
     .lin{
         font-size: 15px;
